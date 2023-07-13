@@ -49,14 +49,10 @@ The following technologies and libraries are utilized in this application:
 ## Screenshots
 Here are some screenshots of the Vertical Video Player app:
 
-![Screenshot 1](/screenshots/screenshot1.png)
-*The home screen displaying a list of vertical videos.*
+![WhatsApp Image 2023-07-11 at 3 57 50 PM](https://github.com/pablin202/tiktok_clone_flutter/assets/8398530/df83298f-a458-40cf-991c-10137ee62135)
 
-![Screenshot 2](/screenshots/screenshot2.png)
-*Playback of a selected video with controls and gestures.*
+![WhatsApp Image 2023-07-11 at 3 57 52 PM](https://github.com/pablin202/tiktok_clone_flutter/assets/8398530/f8bb6a6e-6911-462d-aac0-e226f5bfd215)
 
-![Screenshot 3](/screenshots/screenshot3.png)
-*An example of video looping in the app.*
 
 ## Installation
 To run the Vertical Video Player app on your local machine, follow these steps:
