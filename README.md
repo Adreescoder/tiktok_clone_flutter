@@ -53,6 +53,13 @@ Here are some screenshots of the Vertical Video Player app:
 
 ![WhatsApp Image 2023-07-11 at 3 57 52 PM](https://github.com/pablin202/tiktok_clone_flutter/assets/8398530/f8bb6a6e-6911-462d-aac0-e226f5bfd215)
 
+## Important
+
+The videos are not included in the repository because they are too large, and GitHub does not allow it.
+
+You can download 8 videos from here: [Pexels Free Videos](https://www.pexels.com/search/videos/vertical/).
+
+Please rename those videos as follows, as it matches our data source.
 
 ## Installation
 To run the Vertical Video Player app on your local machine, follow these steps:
